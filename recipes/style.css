@@ -1,10 +1,10 @@
 body {
-    background-color: black;
+    background-color: #02147a;
 
 }
 
 main {
-    background-color: white;
+    background: linear-gradient(45deg, rgb(98, 179, 98), rgb(32, 102, 38), rgb(59, 58, 75), rgb(48, 23, 192), rgb(23, 5, 128));
     margin-left: 100px;
     margin-right: 100px;
     margin-top: auto;
@@ -21,4 +21,10 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+img {
+    height: auto;
+    width; auto;
+    opacity: 70%;
 }
